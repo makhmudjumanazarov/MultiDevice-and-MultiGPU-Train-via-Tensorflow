@@ -17,5 +17,7 @@ user@User_0$: export TF_CONFIG='{"cluster": {"worker": ["192.169.0.146:12345", "
 user@User_1$: export TF_CONFIG='{"cluster": {"worker": ["192.169.0.146:12345", "192.169.0.128:12345"]}, "task": {"index": 1, "type": "worker"}}'
 </pre> 
 
+![Device 0](/device_0.jpg)
+
 
 
