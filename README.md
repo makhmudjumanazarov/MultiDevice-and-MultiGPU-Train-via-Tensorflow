@@ -18,6 +18,7 @@ user@User_1$: export TF_CONFIG='{"cluster": {"worker": ["192.169.0.146:12345", "
 </pre> 
 
 ![Device 0](/device_0.jpg)
+![Device 1](/device_1.jpg)
 
 
 
